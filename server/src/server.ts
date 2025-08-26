@@ -33,6 +33,8 @@ function getUsersInRoom(roomId: string): User[] {
 	return userSocketMap.filter((user) => user.roomId == roomId)
 }
 
+
+
 // Function to get room id by socket id
 function getRoomId(socketId: SocketId): string | null {
 	const roomId = userSocketMap.find(
