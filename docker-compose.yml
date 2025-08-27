@@ -32,3 +32,4 @@ services:
 networks:
   Code-Sync:
     driver: bridge
+# this is my docker compose file
