@@ -18,7 +18,7 @@
 - Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time
 - Copilot: An AI-powered assistant that generates code, allowing you to insert, copy, or replace content seamlessly within your files.
 
-## ⚙️ Installation
+## Installation
 
 ### Method 1: Manual Installation
 
